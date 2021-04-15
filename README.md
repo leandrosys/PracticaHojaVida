@@ -1,1 +1,1 @@
-Realizando PUSH al servidor remoto
+Realizando PULL desde el servidor remoto
